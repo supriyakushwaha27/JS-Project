@@ -1,2 +1,2 @@
 # JS-Project
-This is a javascript project
+This is a Javascript project.
